@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ESP8266-12E_footprint)(type Legacy)(uri ${KIPRJMOD}/../resources/ESP8266-12E_ESP-12E.mod)(options "")(descr ""))
+)
